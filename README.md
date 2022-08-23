@@ -9,6 +9,8 @@ A simple python script where it generates nitro gift codes and checks them if th
 - Type "py main.py" in the terminal 
 - & enjoy !!
 
+<img src=https://i.imgur.com/4LyNvxZ.png />
+</p>
 
 For any other support join our discord 
 
