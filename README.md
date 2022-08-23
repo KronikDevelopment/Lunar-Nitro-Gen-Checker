@@ -10,4 +10,6 @@ A simple python script where it generates nitro gift codes and checks them if th
 - Run exe
 
 
-For any other support join our discord discord.gg/kronik 
+For any other support join our discord 
+
+https://discord.gg/kronik 
